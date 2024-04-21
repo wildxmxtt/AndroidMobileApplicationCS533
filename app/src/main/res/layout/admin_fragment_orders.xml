@@ -25,8 +25,8 @@
         android:layout_width="350dp"
         android:layout_height="50dp"
         android:layout_marginTop="10dp"
+        android:background="@color/material_dynamic_secondary50"
         android:paddingStart="10dp"
-        android:background="@drawable/button_background"
         android:popupBackground="@drawable/button_background"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -49,7 +49,7 @@
         android:layout_width="350dp"
         android:layout_height="450dp"
         android:layout_marginTop="10dp"
-        android:background="@drawable/background_low_alpha"
+        android:background="@color/material_dynamic_tertiary80"
         android:paddingTop="13dp"
         android:paddingBottom="13dp"
         app:layout_constraintEnd_toEndOf="parent"
@@ -72,7 +72,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="15dp"
         android:layout_marginTop="10dp"
-        android:background="@drawable/custom_toggle"
+        android:background="@color/material_dynamic_tertiary80"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/admin_Orders_RecyclerView" />
 
@@ -81,7 +81,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
-        android:background="@drawable/custom_toggle"
+        android:background="@color/material_dynamic_tertiary80"
         app:layout_constraintStart_toEndOf="@+id/adminOrder_toggle1"
         app:layout_constraintTop_toTopOf="@+id/adminOrder_toggle1" />
 
@@ -90,7 +90,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
-        android:background="@drawable/custom_toggle"
+        android:background="@color/material_dynamic_tertiary80"
         app:layout_constraintStart_toEndOf="@+id/adminOrder_toggle2"
         app:layout_constraintTop_toTopOf="@+id/adminOrder_toggle2" />
 
@@ -99,7 +99,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="10dp"
-        android:background="@drawable/custom_toggle"
+        android:background="@color/material_dynamic_tertiary80"
         app:layout_constraintStart_toEndOf="@+id/adminOrder_toggle3"
         app:layout_constraintTop_toTopOf="@+id/adminOrder_toggle3" />
 

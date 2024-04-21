@@ -7,11 +7,14 @@
     android:paddingEnd="10dp"
     android:layout_width="350dp"
     android:layout_height="100dp">
+
         <ImageView
             android:id="@+id/imageView5"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            app:srcCompat="@drawable/background_low_alpha" />
+            android:background="#009688"
+            app:srcCompat="@drawable/background_low_alpha"
+            tools:layout_editor_absoluteX="10dp" />
         <TextView
             android:id="@+id/admin_username_user_text"
             android:layout_width="300dp"

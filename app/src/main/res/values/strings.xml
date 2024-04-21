@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">Mobile App as2</string>
     <string name="title_edituser">Edit User</string>
-    <string name="title_shop">Shop</string>
+    <string name="title_shop">Store</string>
     <string name="title_user">User</string>
-    <string name="title_basket">Basket</string>
+    <string name="title_basket">Cart</string>
     <string name="title_activity_main_menu">MainMenu</string>
 
     <!-- LOGIN SCREEN -->
@@ -14,7 +14,7 @@
     <string name="username_incorrect_toast">Incorrect Username</string>
     <string name="password_incorrect_toast">Incorrect Password</string>
     <string name="welcome_toast">Welcome</string>
-    <string name="app_title">Kwesi James Local Store</string>
+    <string name="app_title">Star Store</string>
 
     <!-- REGISTER SCREEN -->
     <string name="register_Title">Register</string>
@@ -24,7 +24,7 @@
     <string name="email_entry">Email</string>
     <string name="re_email_entry">Re-Enter Email</string>
     <string name="address_entry">Delivery Address</string>
-    <string name="postcode_entry">Postcode</string>
+    <string name="postcode_entry">Postal code</string>
     <string name="phonenumber_entry">Phone Number</string>
     <string name="hobby_entry">Hobby</string>
     <string name="register_button">Register</string>
@@ -38,7 +38,7 @@
     <string name="register_validphone">Please Enter Valid Phone Number</string>
 
     <!-- USER SHOP SCREEN -->
-    <string name="shop_title">Shop</string>
+    <string name="shop_title">Store</string>
     <string name="category_title">Cat_Title</string>
     <string name="category_description">example description of a category</string>
     <!-- recycler view items -->
